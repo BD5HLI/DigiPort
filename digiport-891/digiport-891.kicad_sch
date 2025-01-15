@@ -6414,6 +6414,7 @@
 	)
 	(label "USBDN1_D+"
 		(at 127 53.34 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6424,6 +6425,7 @@
 	)
 	(label "USBDN1_D-"
 		(at 127 50.8 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
