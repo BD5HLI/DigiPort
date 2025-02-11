@@ -21,6 +21,7 @@
 DigiPort在电脑侧的接口为type c接口，可使用c to a或c to c数据线连接电脑或者手机；在电台侧的接口包括两个3.5mm的4芯TRRS接口，面向电路板器件面、type c接口在右侧时，左上的TRRS接口为音频/PTT接口，左下的TRRS接口为USB接口。
 
 DigiPort的音频/PTT接口定义如下：  
+
 ```
    /\  
   |  |---------> 尖端   RIG_AFOUT 电台音频输出，接FT-891 DATA口的DATA OUT脚  
@@ -37,6 +38,7 @@ __|  |__
 VOX_PTT信号用于没有USB串口的设备控制收发转换，控制源来自CM108B声卡的右声道，推荐采用1kHz或2kHz的单音作为VOX触发信号。
 
 FT-891的DATA**插座**定义如下：
+
 ```
     /-----\      1脚：DATA OUT  
    / 6 _ 1 \     2脚：PTT  
@@ -44,9 +46,10 @@ FT-891的DATA**插座**定义如下：
    \ 4   3 /     4脚：GND  
     \-----/      5脚：SHIFT   
                  6脚：SQL   
-``` 
+```
 
 DigiPort的电台侧USB接口定义如下：  
+
 ```
    /\  
   |  |---------> 尖端   +5V 电台USB口的+5V电源脚  
@@ -61,6 +64,7 @@ __|  |__
 ```
 
 USB Type-B**插头**定义如下：
+
 ```
    /---------\       
   /           \     1脚：+5V    
@@ -79,7 +83,6 @@ USB Type-B**插头**定义如下：
 - 3D-models目录下是部分器件的3D模型，来自Digirig-Mobile项目。  
 - footprints.pretty目录下是部分器件的封装库，来自Digirig-Mobile项目。  
 - symbols目录下是部分器件的符号库，来自Digirig-Mobile项目。  
-
 
 # 致谢
 
