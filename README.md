@@ -6,6 +6,16 @@
 
 本项目虽然面向FT-891设计，实际上可以仅使用USB声卡的功能，从而适用于绝大多数带有音频输入输出接口的电台，比如K5、K6手台，配合相应的软件可以实现SSTV、APRS等玩法。
 
+# 电路板渲染图
+
+电路板正面：
+
+![电路板正面](https://raw.githubusercontent.com/BD5HLI/DigiPort-891/refs/heads/main/resources/digiport-891-top.png "电路板正面")
+
+电路板反面：
+
+![电路板反面](https://raw.githubusercontent.com/BD5HLI/DigiPort-891/refs/heads/main/resources/digiport-891-bottom.png "电路板反面")
+
 # 接口
 
 DigiPort在电脑侧的接口为type c接口，可使用c to a或c to c数据线连接电脑或者手机；在电台侧的接口包括两个3.5mm的4芯TRRS接口，面向电路板器件面、type c接口在右侧时，左上的TRRS接口为音频/PTT接口，左下的TRRS接口为USB接口。
