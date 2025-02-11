@@ -4,6 +4,10 @@
 	(generator_version "8.0")
 	(uuid "d6fa1df6-9227-4073-909d-1e0f07a58367")
 	(paper "A3")
+	(title_block
+		(title "DigiPort-891")
+		(company "BD5HLI")
+	)
 	(lib_symbols
 		(symbol "Connector:AudioJack4"
 			(exclude_from_sim no)

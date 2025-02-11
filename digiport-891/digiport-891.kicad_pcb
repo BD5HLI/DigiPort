@@ -1528,18 +1528,7 @@
 			(pintype "passive")
 			(uuid "bc8d3da1-6199-403a-a11d-08202df44a99")
 		)
-		(model "/Users/danny/syncproj/kicad-libs/footprints/Keebio-Parts.pretty/3dmodels/PJ-320A.step"
-			(offset
-				(xyz 0 0 0)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz -90 0 180)
-			)
-		)
-		(model "${DIGIRIG_DIR}/PJ320A.STEP"
+		(model "${KIPRJMOD}/../3d-models/PJ320A.STEP"
 			(offset
 				(xyz -0.4 -5.2 -12)
 			)
@@ -3300,19 +3289,7 @@
 			(pintype "passive")
 			(uuid "1cd54f13-ab81-493c-9bed-8a0a28583569")
 		)
-		(model "${KISYS3DMOD}/Connector_USB.3dshapes/USB_C_Receptacle_HRO_TYPE-C-31-M-12.wrl"
-			(hide yes)
-			(offset
-				(xyz 0 0 0)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz 0 0 0)
-			)
-		)
-		(model "D:/Amateur Radio/DigiRig/electric/3d-models/HRO_TYPE-C-31-M-12.step"
+		(model "${KIPRJMOD}/../3d-models/HRO_TYPE-C-31-M-12.step"
 			(offset
 				(xyz -4.47 -3.65 0)
 			)
@@ -10361,19 +10338,7 @@
 			(pintype "passive")
 			(uuid "4a53b84a-686f-4ed3-bd88-3517f857e637")
 		)
-		(model "D:/Amateur Radio/DigiRig/electric/footprints.pretty/TRRS-PJ-320A.kicad_mod"
-			(hide yes)
-			(offset
-				(xyz 0 0 0)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz -90 0 180)
-			)
-		)
-		(model "${DIGIRIG_DIR}/PJ320A.STEP"
+		(model "${KIPRJMOD}/../3d-models/PJ320A.STEP"
 			(offset
 				(xyz -0.3 -5.2 -12)
 			)
@@ -11084,7 +11049,7 @@
 		(descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor handsolder")
 		(property "Reference" "R11"
-			(at -0.02125 -0.86 360)
+			(at -0.02125 -0.86 0)
 			(layer "F.SilkS")
 			(uuid "9b43c64b-90e2-4994-962c-5d2ba6c4f2df")
 			(effects
@@ -11095,7 +11060,7 @@
 			)
 		)
 		(property "Value" "22"
-			(at 0 1.16 360)
+			(at 0 1.16 0)
 			(layer "F.Fab")
 			(uuid "f27dd3d4-0001-46b1-9a2e-eaa709359da5")
 			(effects
@@ -11250,7 +11215,7 @@
 			(uuid "b02ee4c8-b437-49d2-ad67-d165afdaecbc")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "e852efa5-1161-43e0-b80a-e5e4aca3e4f9")
 			(effects
