@@ -76,7 +76,7 @@
 		(tenting front back)
 		(grid_origin 108.5 100.35)
 		(pcbplotparams
-			(layerselection 0x00000000_00000000_55555555_5755f5ff)
+			(layerselection 0x00000000_00000000_5555555f_ff55f5ff)
 			(plot_on_all_layers_selection 0x00000000_00000000_00000000_00000000)
 			(disableapertmacros no)
 			(usegerberextensions no)
@@ -243,9 +243,21 @@
 				)
 			)
 		)
+		(property "LCSC" "C114765"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "8cd1e745-5796-4297-b0aa-94cead8f87de")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/65e427d4-43d4-4e63-84fd-b883e1761534")
-		(sheetname "根目录")
+		(sheetname "/")
 		(sheetfile "digiport-891.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -407,7 +419,7 @@
 				)
 			)
 		)
-		(property "Value" "1nF"
+		(property "Value" "1uF"
 			(at 0 1.16 0)
 			(layer "F.Fab")
 			(uuid "53034f06-d355-4d5d-a622-d089561cb873")
@@ -444,9 +456,21 @@
 				)
 			)
 		)
+		(property "LCSC" "C14442"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "c6f3f78e-052e-4d2f-80bf-84a8c54412a6")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/5fca9842-1a56-4d29-8697-c10de08d7648")
-		(sheetname "根目录")
+		(sheetname "/")
 		(sheetfile "digiport-891.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -645,9 +669,21 @@
 				)
 			)
 		)
+		(property "LCSC" "C1525"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "e85ada84-8577-42ef-b1b1-426c41196e64")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/5c769933-b511-47d4-818a-de6bae58ddf1")
-		(sheetname "根目录")
+		(sheetname "/")
 		(sheetfile "digiport-891.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -846,9 +882,21 @@
 				)
 			)
 		)
+		(property "LCSC" "C15525"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "b845ed1d-ab6b-46bb-a5a8-a78e1eb68289")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/039979f7-2e52-451f-b44c-2c08c0a134dd")
-		(sheetname "根目录")
+		(sheetname "/")
 		(sheetfile "digiport-891.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -1048,9 +1096,21 @@
 				)
 			)
 		)
+		(property "LCSC" "C70590"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "9ee4e16d-0fde-4e7a-b7ef-27a52f011341")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Crystal*")
 		(path "/6d61ac3a-e289-4573-9c74-a46c7c0a451f")
-		(sheetname "根目录")
+		(sheetname "/")
 		(sheetfile "digiport-891.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -1287,9 +1347,21 @@
 				)
 			)
 		)
+		(property "LCSC" "C2884926"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "a0df1183-911c-474d-9557-64f8cae644ad")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Jack*")
 		(path "/513c7eba-2a20-4e8f-a516-6953fd1a195b")
-		(sheetname "根目录")
+		(sheetname "/")
 		(sheetfile "digiport-891.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -1527,9 +1599,21 @@
 				)
 			)
 		)
+		(property "LCSC" "C60491"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "1bb59a95-05e0-46b4-b40f-394ba9eea906")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/9d700a2e-891f-46be-8339-be184dd7f7c1")
-		(sheetname "根目录")
+		(sheetname "/")
 		(sheetfile "digiport-891.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -1729,9 +1813,21 @@
 				)
 			)
 		)
+		(property "LCSC" "C41095"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "d1b60133-ddd2-4ce3-a1bf-03791f9377d5")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "SOT?23*")
 		(path "/8c2f00d9-2550-4c3e-b070-83d51e184b4b")
-		(sheetname "根目录")
+		(sheetname "/")
 		(sheetfile "digiport-891.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -1984,9 +2080,21 @@
 				)
 			)
 		)
+		(property "LCSC" "C60490"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "ba934734-294e-4afd-b242-4126a0984c17")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/d4f0089b-f329-4997-a8ce-798f1601d3bc")
-		(sheetname "根目录")
+		(sheetname "/")
 		(sheetfile "digiport-891.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -2185,9 +2293,21 @@
 				)
 			)
 		)
+		(property "LCSC" "C114759"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "5bc54eaf-ba65-494d-892f-0f37e3818125")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/0639f966-37bf-4872-85dd-e105f8450709")
-		(sheetname "根目录")
+		(sheetname "/")
 		(sheetfile "digiport-891.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -2387,9 +2507,21 @@
 				)
 			)
 		)
+		(property "LCSC" "C138073"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "e2295e59-50e7-4b4e-9bc8-6cf82e7c6d61")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/65ecf1be-633b-4b07-acc6-9f57f97f457a")
-		(sheetname "根目录")
+		(sheetname "/")
 		(sheetfile "digiport-891.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -2589,9 +2721,21 @@
 				)
 			)
 		)
+		(property "LCSC" "C60491"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "a17a39bf-d9cc-450b-8b56-6b8672a6eaca")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/947af649-d764-4754-9e7f-a5e6df3db5ee")
-		(sheetname "根目录")
+		(sheetname "/")
 		(sheetfile "digiport-891.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -2790,9 +2934,21 @@
 				)
 			)
 		)
+		(property "LCSC" "C165948"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "cd6a8d6d-41d8-4725-a407-6e7d3e2208cf")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "USB*C*Receptacle*")
 		(path "/67ceb561-cd28-4591-aca6-11495963cc4d")
-		(sheetname "根目录")
+		(sheetname "/")
 		(sheetfile "digiport-891.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -3205,9 +3361,21 @@
 				)
 			)
 		)
+		(property "LCSC" "C60490"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "5bb50e84-655f-4326-acde-1d30d6be201f")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/1e77e2d4-967e-4b04-9d52-1950f6b3c00e")
-		(sheetname "根目录")
+		(sheetname "/")
 		(sheetfile "digiport-891.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -3406,9 +3574,21 @@
 				)
 			)
 		)
+		(property "LCSC" "C60491"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "3f4a61f0-cf98-4001-8879-e6f46811ed92")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/b7adb5cd-9111-4ce3-a564-82058756ac23")
-		(sheetname "根目录")
+		(sheetname "/")
 		(sheetfile "digiport-891.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -3607,9 +3787,21 @@
 				)
 			)
 		)
+		(property "LCSC" "C15525"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "f094518d-eb60-444c-b5ab-24541e3b53b7")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/675b637d-154f-4093-a359-9930ae70cb2d")
-		(sheetname "根目录")
+		(sheetname "/")
 		(sheetfile "digiport-891.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -3808,9 +4000,21 @@
 				)
 			)
 		)
+		(property "LCSC" "C86287"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "37587e29-0f69-4ea1-a01d-0779115894ca")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/75609084-be99-4102-9ab6-4eba5c0bd27f")
-		(sheetname "根目录")
+		(sheetname "/")
 		(sheetfile "digiport-891.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -4010,9 +4214,21 @@
 				)
 			)
 		)
+		(property "LCSC" "C138073"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "1ff4e78d-70c9-4dd5-bca1-fd0d99e9c6c2")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/004941a0-a874-4bf8-a058-5d2afc78087e")
-		(sheetname "根目录")
+		(sheetname "/")
 		(sheetfile "digiport-891.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -4211,9 +4427,21 @@
 				)
 			)
 		)
+		(property "LCSC" "C15525"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "1b191589-23fc-448d-9377-67c7ba3dec28")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/94030979-b4f6-4e61-879a-fb3923dda89a")
-		(sheetname "根目录")
+		(sheetname "/")
 		(sheetfile "digiport-891.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -4412,9 +4640,21 @@
 				)
 			)
 		)
+		(property "LCSC" "C18716421"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "695f9f55-13ff-469b-a814-b98267d917f6")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/4ab3de57-3b34-47eb-b762-a70a068218ac")
-		(sheetname "根目录")
+		(sheetname "/")
 		(sheetfile "digiport-891.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -4765,9 +5005,21 @@
 				)
 			)
 		)
+		(property "LCSC" "C138033"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "de19a068-c7c7-4f9a-94ba-3d2e784a8aa4")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/fd81bee0-ff45-4c44-a19f-35f472c1c6d1")
-		(sheetname "根目录")
+		(sheetname "/")
 		(sheetfile "digiport-891.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -4966,9 +5218,21 @@
 				)
 			)
 		)
+		(property "LCSC" "C307331"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "7ee8c31b-e8b3-49a7-b55d-9c80e267ffb9")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/b15b62cc-54ad-44ca-9117-1e7386bb4660")
-		(sheetname "根目录")
+		(sheetname "/")
 		(sheetfile "digiport-891.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -5167,9 +5431,21 @@
 				)
 			)
 		)
+		(property "LCSC" "C60490"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "b4313ba6-35ef-420c-9bf0-4ab4dbdae517")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/0d6b8375-08a1-44e2-9df0-0510089908d4")
-		(sheetname "根目录")
+		(sheetname "/")
 		(sheetfile "digiport-891.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -5323,7 +5599,7 @@
 		(property "Reference" "D1"
 			(at 0.0025 -0.99125 0)
 			(layer "F.SilkS")
-			(uuid "bfbdd58f-4520-4945-9038-356e874d2be6")
+			(uuid "6058030b-ee34-43a6-91eb-004e73edd8ac")
 			(effects
 				(font
 					(size 0.6 0.6)
@@ -5335,7 +5611,7 @@
 		(property "Value" "GS2005ELD"
 			(at 0 1.2 270)
 			(layer "F.Fab")
-			(uuid "9253797e-3c27-4e50-8944-a32b9e30592e")
+			(uuid "2cc5f330-fc98-4020-b793-4abbd8214a16")
 			(effects
 				(font
 					(size 1 1)
@@ -5348,7 +5624,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "9bc87763-63b4-4e9a-a37a-9127edcd3a5e")
+			(uuid "493fee99-1cb5-454e-9994-df096b7878f4")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5361,7 +5637,19 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "913e93e9-68b6-4683-975d-07e5e73470e1")
+			(uuid "9d4db4e2-2a01-4c75-bbc1-485b2be49c4e")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C18716421"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "879df875-cfd3-4170-97b2-bb67258822b0")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5371,7 +5659,7 @@
 		)
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/0d7d7d4b-9957-4cec-9107-af0e90744b48")
-		(sheetname "根目录")
+		(sheetname "/")
 		(sheetfile "digiport-891.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -5722,9 +6010,21 @@
 				)
 			)
 		)
+		(property "LCSC" "C86287"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "f4f3d263-2ee9-45e9-a048-f7e6690ca94e")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/83ce18b9-e4c9-4bb1-8f52-48a2ee9a304f")
-		(sheetname "根目录")
+		(sheetname "/")
 		(sheetfile "digiport-891.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -5923,9 +6223,21 @@
 				)
 			)
 		)
+		(property "LCSC" "C14442"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "beea8ae1-25db-45f3-872d-e4ee8ba3d539")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/9b2e4f4d-4ffc-4f0d-bba0-2cebdc82fe9f")
-		(sheetname "根目录")
+		(sheetname "/")
 		(sheetfile "digiport-891.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -6124,9 +6436,21 @@
 				)
 			)
 		)
+		(property "LCSC" "C15525"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "4d13b9d6-e1cd-4b0b-b92e-df49dc0e170d")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/d470e07d-0a07-441b-94e7-fa3d9056a73a")
-		(sheetname "根目录")
+		(sheetname "/")
 		(sheetfile "digiport-891.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -6325,9 +6649,21 @@
 				)
 			)
 		)
+		(property "LCSC" "C15525"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "ea555158-1bd9-4c10-8e4e-7acffb47f551")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/9aeb0095-16e3-45b7-863e-650b70533d98")
-		(sheetname "根目录")
+		(sheetname "/")
 		(sheetfile "digiport-891.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -6526,9 +6862,21 @@
 				)
 			)
 		)
+		(property "LCSC" "C114759"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "7a42aef8-7b66-492b-bfee-c3bb97824f0d")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/0c09ba92-8c5d-4b3f-a0ec-d6fbc4c50e6e")
-		(sheetname "根目录")
+		(sheetname "/")
 		(sheetfile "digiport-891.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -6727,9 +7075,21 @@
 				)
 			)
 		)
+		(property "LCSC" "C15525"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "e33f6527-20bd-4426-8999-804157728ed6")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/d8daf02e-2a34-4906-b59f-ac999661513b")
-		(sheetname "根目录")
+		(sheetname "/")
 		(sheetfile "digiport-891.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -6928,9 +7288,21 @@
 				)
 			)
 		)
+		(property "LCSC" "C14442"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "5fb3d184-ef8d-46ab-b480-871984c3e277")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/4444dc8f-2672-42c5-aebf-a8b2ef0b8fe4")
-		(sheetname "根目录")
+		(sheetname "/")
 		(sheetfile "digiport-891.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -7129,9 +7501,21 @@
 				)
 			)
 		)
+		(property "LCSC" "C14442"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "dfa57751-22ca-4dcb-860c-63b2dc4c9792")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/0a4687fe-1648-4f4c-959d-88ad6086af18")
-		(sheetname "根目录")
+		(sheetname "/")
 		(sheetfile "digiport-891.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -7330,9 +7714,21 @@
 				)
 			)
 		)
+		(property "LCSC" "C60488"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "fa409b9e-7332-46e6-9f74-a48a7806695f")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/03be48eb-aaec-4980-b13d-07cf4e3c57cf")
-		(sheetname "根目录")
+		(sheetname "/")
 		(sheetfile "digiport-891.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -7531,8 +7927,20 @@
 				)
 			)
 		)
+		(property "LCSC" "C622609"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "b40122f7-0100-4e89-b79d-c860956346e6")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/b7873a27-203f-4f38-a7e4-e3595b2c1007")
-		(sheetname "根目录")
+		(sheetname "/")
 		(sheetfile "digiport-891.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -8149,9 +8557,21 @@
 				)
 			)
 		)
+		(property "LCSC" "C14442"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "9736bc0d-6b5a-42fd-8d98-1fc3e41ffd4d")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/8e33c0dd-d19e-4aa0-b21a-f8828aedce81")
-		(sheetname "根目录")
+		(sheetname "/")
 		(sheetfile "digiport-891.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -8349,8 +8769,20 @@
 				)
 			)
 		)
+		(property "LCSC" "C371347"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "b948d48a-9f0a-497d-93ac-6ae69e75b49b")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/8349381d-d6b9-4336-980f-b10c44d5cf53")
-		(sheetname "根目录")
+		(sheetname "/")
 		(sheetfile "digiport-891.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -9293,9 +9725,21 @@
 				)
 			)
 		)
+		(property "LCSC" "C307331"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "5916db9a-4453-48bb-9baf-ac3870e9a02f")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/ec9fab3c-315f-476e-bb2c-d0c706467380")
-		(sheetname "根目录")
+		(sheetname "/")
 		(sheetfile "digiport-891.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -9494,9 +9938,21 @@
 				)
 			)
 		)
+		(property "LCSC" "C60491"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "f4dc6b46-15c5-4be4-92fd-894cc8fc97fd")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/edb443bf-09b7-4643-a7f5-eb1e15c61e8d")
-		(sheetname "根目录")
+		(sheetname "/")
 		(sheetfile "digiport-891.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -9705,9 +10161,21 @@
 				)
 			)
 		)
+		(property "LCSC" "C2884926"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "8eb78035-34c2-4289-b5a6-d305f4cfb8c0")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Jack*")
 		(path "/643dc3ea-48b4-4992-95dc-042b59feea55")
-		(sheetname "根目录")
+		(sheetname "/")
 		(sheetfile "digiport-891.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -9944,9 +10412,21 @@
 				)
 			)
 		)
+		(property "LCSC" "C41095"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "4368c315-6527-4a70-8e2d-0117e126df4a")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "SOT?23*")
 		(path "/ba981293-4366-4b6b-9a18-fb5d335f839f")
-		(sheetname "根目录")
+		(sheetname "/")
 		(sheetfile "digiport-891.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -10199,9 +10679,21 @@
 				)
 			)
 		)
+		(property "LCSC" "C114759"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "8796213f-76b9-4836-9493-a24106507c8f")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/8cae6447-008f-46d9-be48-7e091ceb6d65")
-		(sheetname "根目录")
+		(sheetname "/")
 		(sheetfile "digiport-891.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -10401,9 +10893,21 @@
 				)
 			)
 		)
+		(property "LCSC" "C60491"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "c532bf4a-7544-4d2e-9879-a8297b94ca9d")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/c2ba53b5-7ba3-4267-8623-94bc2b6f42c8")
-		(sheetname "根目录")
+		(sheetname "/")
 		(sheetfile "digiport-891.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -10602,9 +11106,21 @@
 				)
 			)
 		)
+		(property "LCSC" "C114765"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "1c4ae68a-73ee-4560-a3d4-9058ebf48207")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/aecefc3b-ec00-4ce8-8990-4c498a7995e5")
-		(sheetname "根目录")
+		(sheetname "/")
 		(sheetfile "digiport-891.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -10810,7 +11326,7 @@
 		)
 		(property ki_fp_filters "SolderJumper*Bridged*")
 		(path "/c28c5267-de9b-4970-ac13-d3f89a2903e5")
-		(sheetname "根目录")
+		(sheetname "/")
 		(sheetfile "digiport-891.kicad_sch")
 		(zone_connect 1)
 		(attr exclude_from_pos_files exclude_from_bom)
@@ -11098,7 +11614,7 @@
 		)
 		(property ki_fp_filters "SolderJumper*Bridged*")
 		(path "/4b51a446-a160-4bb8-a25b-2df1549205dc")
-		(sheetname "根目录")
+		(sheetname "/")
 		(sheetfile "digiport-891.kicad_sch")
 		(zone_connect 1)
 		(attr exclude_from_pos_files exclude_from_bom)
@@ -11500,6 +12016,19 @@
 			(font
 				(size 0.6 0.6)
 				(thickness 0.1)
+				(bold yes)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "JLCJLCJLCJLC"
+		(at 119.33 102.03 0)
+		(layer "B.SilkS")
+		(uuid "e39fd7fc-f211-482b-b9a5-36f2100c57fb")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
 				(bold yes)
 			)
 			(justify left bottom mirror)
